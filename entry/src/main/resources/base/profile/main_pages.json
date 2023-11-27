@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Second",
+    "pages/FirstPage",
+    "pages/MyComponentPage",
+    "pages/MyBuildPage",
+    "pages/ToDoListPage",
+    "pages/NavigationPage",
+    "pages/LoginPage",
+    "pages/MainPage",
+    "pages/ads/SplashPage"
+  ]
+}
